@@ -9,8 +9,8 @@ In deps.edn:
 
 ```edn
 {techpunch/techpunch-clj {:git/url "https://github.com/techpunch/techpunch-clj.git"
-                          :git/tag  "(latest tag)"
-                          :git/sha  "(latest commit)"}}
+                          :git/tag "![](https://img.shields.io/github/v/tag/techpunch/techpunch-clj)"
+                          :git/sha "![](https://img.shields.io/github/sha/techpunch/techpunch-clj)"}}
 ```
 
 ---
